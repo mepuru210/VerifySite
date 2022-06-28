@@ -1,0 +1,23 @@
+h2 {margin-right:auto; margin-left:auto; text-align: center; width:750px;}
+.vpn{margin-right:auto; margin-left:auto; text-align: center; width:750px;} 
+.verify {
+    margin-right:auto; margin-left:auto; text-align: center; width:750px;
+    font-weight:bold;
+        }
+.button a {
+    width: 280px;
+    background-color: #ed4245;
+    border-radius: 3px;
+    color: #ffffff;
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px auto;
+    padding: 10px 0;
+            }
+img {
+    display: block;
+    margin:auto;
+}
